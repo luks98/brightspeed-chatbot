@@ -1,0 +1,15 @@
+langchain
+openai
+streamlit
+chromadb
+tiktoken
+arxiv
+unstructured
+langchain--community
+sqlalchemy
+numpy
+google-cloud-aiplatform
+google-cloud-storage
+oauth2client
+python-dotenv
+pillow
